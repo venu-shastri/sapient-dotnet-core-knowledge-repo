@@ -118,3 +118,39 @@ publc class Label(){
 
 publc void Dispose(){}
 }
+
+class Strudent{
+
+string enrollmentNumber
+
+
+}
+
+class IDCard{
+
+string enrollmentNumber;
+
+}
+
+Strudent _student1=new  Student("S100");
+
+IDCard _idCard=new  IDCard(_student1.enrollmentNumber);
+
+class Employee{
+
+}
+
+
+class Asset{
+
+  string uniqueId;
+}
+
+//Association Uing ThridParty Class
+class AssentUsage{
+
+	string employeeId;
+	string assetId
+}
+
+
