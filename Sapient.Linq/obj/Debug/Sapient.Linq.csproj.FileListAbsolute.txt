@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\DependencyMgmt\Sapient.Linq\bin\Debug\Sapient.Linq.dll
+C:\Users\user\source\repos\DependencyMgmt\Sapient.Linq\bin\Debug\Sapient.Linq.pdb
+C:\Users\user\source\repos\DependencyMgmt\Sapient.Linq\obj\Debug\Sapient.Linq.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DependencyMgmt\Sapient.Linq\obj\Debug\Sapient.Linq.dll
+C:\Users\user\source\repos\DependencyMgmt\Sapient.Linq\obj\Debug\Sapient.Linq.pdb
