@@ -120,5 +120,5 @@ namespace DebtCode
 /*
 Expectation
 1.Identify Violation of Design Principles
-2. Refactor the code for tesing and maintainability 
+2. Refactor the code for testing and maintainability 
 */
