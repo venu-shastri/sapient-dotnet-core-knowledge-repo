@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\DependencyMgmt\Parameterization\bin\Debug\Parameterization.exe.config
+C:\Users\user\source\repos\DependencyMgmt\Parameterization\bin\Debug\Parameterization.exe
+C:\Users\user\source\repos\DependencyMgmt\Parameterization\bin\Debug\Parameterization.pdb
+C:\Users\user\source\repos\DependencyMgmt\Parameterization\obj\Debug\Parameterization.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DependencyMgmt\Parameterization\obj\Debug\Parameterization.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DependencyMgmt\Parameterization\obj\Debug\Parameterization.exe
+C:\Users\user\source\repos\DependencyMgmt\Parameterization\obj\Debug\Parameterization.pdb

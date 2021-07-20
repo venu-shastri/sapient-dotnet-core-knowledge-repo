@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\DependencyMgmt\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\user\source\repos\DependencyMgmt\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\user\source\repos\DependencyMgmt\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\user\source\repos\DependencyMgmt\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DependencyMgmt\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\user\source\repos\DependencyMgmt\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
