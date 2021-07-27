@@ -21,3 +21,4 @@ E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\CalulcatorApiLib\obj\Debu
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\CalulcatorApiLib\obj\Debug\net5.0\ref\CalulcatorApiLib.dll
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\CalulcatorApiLib\obj\Debug\net5.0\CalulcatorApiLib.pdb
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\CalulcatorApiLib\obj\Debug\net5.0\CalulcatorApiLib.genruntimeconfig.cache
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\CalulcatorApiLib\bin\Debug\net5.0\Configurations\api.json

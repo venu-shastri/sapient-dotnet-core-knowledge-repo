@@ -26,6 +26,11 @@ namespace CalulcatorApiLib
         {
 
             services.AddControllers();
+            services.AddTransient(typeof(Services.IDbWriter), typeof(Services.DbWriter));
+            services.AddTransient(typeof(Services.IDataOptimizer), typeof(Services.DataOptimizer));
+            services.AddSingleton(typeof(Services.IDataValidator), typeof(Services.DataValidator));
+            services.AddSingleton(typeof(Services.IDataLogger), typeof(Services.DataLogger));
+            services.Configure<Models.RemoteServiceOptions>(Configuration.GetSection(Models.RemoteServiceOptions.SectionName));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,9 +16,16 @@ namespace CalulcatorApiLib.Controllers
     [ApiController]
     public class CalculatorController : ControllerBase
     {
+        ILogger<CalculatorController> _logger;
+        public CalculatorController(Services.IDbWriter writer, ILogger<CalculatorController> logger)
+        {
+            this._logger = logger;
+
+        }
         [HttpGet]
         public string GetResult()
         {
+            this._logger.LogInformation($"{nameof(GetResult)} called");
             return "Sum of .....";
         }
         [HttpGet]
