@@ -1,0 +1,16 @@
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\bin\Debug\net5.0\Async_Demo.exe
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\bin\Debug\net5.0\Async_Demo.deps.json
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\bin\Debug\net5.0\Async_Demo.runtimeconfig.json
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\bin\Debug\net5.0\Async_Demo.runtimeconfig.dev.json
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\bin\Debug\net5.0\Async_Demo.dll
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\bin\Debug\net5.0\ref\Async_Demo.dll
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\bin\Debug\net5.0\Async_Demo.pdb
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\obj\Debug\net5.0\Async_Demo.csproj.AssemblyReference.cache
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\obj\Debug\net5.0\Async_Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\obj\Debug\net5.0\Async_Demo.AssemblyInfoInputs.cache
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\obj\Debug\net5.0\Async_Demo.AssemblyInfo.cs
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\obj\Debug\net5.0\Async_Demo.csproj.CoreCompileInputs.cache
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\obj\Debug\net5.0\Async_Demo.dll
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\obj\Debug\net5.0\ref\Async_Demo.dll
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\obj\Debug\net5.0\Async_Demo.pdb
+E:\Sapient_bootcamp\Async_Demo\Async_Demo\obj\Debug\net5.0\Async_Demo.genruntimeconfig.cache
