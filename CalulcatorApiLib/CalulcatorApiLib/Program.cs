@@ -18,7 +18,7 @@ namespace CalulcatorApiLib
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args).
-            ConfigureLogging((logBuilder) => { logBuilder.ClearProviders(); logBuilder.a })
+            ConfigureLogging((logBuilder) => { logBuilder.ClearProviders(); logBuilder.AddConsole(); })
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
