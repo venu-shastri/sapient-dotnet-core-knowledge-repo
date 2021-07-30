@@ -1,0 +1,12 @@
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\DataModelsLib\bin\Debug\net5.0\DataModelsLib.deps.json
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\DataModelsLib\bin\Debug\net5.0\DataModelsLib.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\DataModelsLib\bin\Debug\net5.0\ref\DataModelsLib.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\DataModelsLib\bin\Debug\net5.0\DataModelsLib.pdb
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\DataModelsLib\obj\Debug\net5.0\DataModelsLib.csproj.AssemblyReference.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\DataModelsLib\obj\Debug\net5.0\DataModelsLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\DataModelsLib\obj\Debug\net5.0\DataModelsLib.AssemblyInfoInputs.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\DataModelsLib\obj\Debug\net5.0\DataModelsLib.AssemblyInfo.cs
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\DataModelsLib\obj\Debug\net5.0\DataModelsLib.csproj.CoreCompileInputs.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\DataModelsLib\obj\Debug\net5.0\DataModelsLib.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\DataModelsLib\obj\Debug\net5.0\ref\DataModelsLib.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\DataModelsLib\obj\Debug\net5.0\DataModelsLib.pdb

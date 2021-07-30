@@ -1,0 +1,80 @@
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.AssemblyInfoInputs.cache
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.AssemblyInfo.cs
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.csproj.CoreCompileInputs.cache
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\EMICalculatorAPI.exe
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\EMICalculatorAPI.deps.json
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\EMICalculatorAPI.runtimeconfig.json
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\EMICalculatorAPI.runtimeconfig.dev.json
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\EMICalculatorAPI.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\ref\EMICalculatorAPI.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\EMICalculatorAPI.pdb
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\staticwebassets\EMICalculatorAPI.StaticWebAssets.Manifest.cache
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\staticwebassets\EMICalculatorAPI.StaticWebAssets.xml
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\scopedcss\bundle\EMICalculatorAPI.styles.css
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.RazorTargetAssemblyInfo.cache
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.csproj.CopyComplete
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\ref\EMICalculatorAPI.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.pdb
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.genruntimeconfig.cache
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NJsonSchema.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NJsonSchema.Yaml.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NSwag.AspNetCore.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NSwag.Core.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NSwag.Core.Yaml.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NSwag.Generation.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\YamlDotNet.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.csproj.AssemblyReference.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\appsettings.json
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\EMICalculatorAPI.exe
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\EMICalculatorAPI.deps.json
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\EMICalculatorAPI.runtimeconfig.json
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\EMICalculatorAPI.runtimeconfig.dev.json
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\EMICalculatorAPI.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\ref\EMICalculatorAPI.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\EMICalculatorAPI.pdb
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\Namotion.Reflection.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NJsonSchema.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NJsonSchema.Yaml.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NSwag.Annotations.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NSwag.AspNetCore.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NSwag.Core.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NSwag.Core.Yaml.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NSwag.Generation.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\bin\Debug\net5.0\YamlDotNet.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.csproj.AssemblyReference.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.AssemblyInfoInputs.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.AssemblyInfo.cs
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.csproj.CoreCompileInputs.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\staticwebassets\EMICalculatorAPI.StaticWebAssets.Manifest.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\staticwebassets\EMICalculatorAPI.StaticWebAssets.xml
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\scopedcss\bundle\EMICalculatorAPI.styles.css
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.RazorTargetAssemblyInfo.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.csproj.CopyComplete
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\ref\EMICalculatorAPI.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.pdb
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EMICalculatorAPI\obj\Debug\net5.0\EMICalculatorAPI.genruntimeconfig.cache

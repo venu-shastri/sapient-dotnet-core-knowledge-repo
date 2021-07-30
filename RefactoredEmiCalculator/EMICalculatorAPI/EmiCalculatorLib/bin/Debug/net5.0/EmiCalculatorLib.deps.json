@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EmiCalculatorLib/1.0.0": {
+        "dependencies": {
+          "DataModelsLib": "1.0.0"
+        },
+        "runtime": {
+          "EmiCalculatorLib.dll": {}
+        }
+      },
+      "DataModelsLib/1.0.0": {
+        "runtime": {
+          "DataModelsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmiCalculatorLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataModelsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

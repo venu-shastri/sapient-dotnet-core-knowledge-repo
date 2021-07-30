@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EMICalculatorAPI", "EMICalculatorAPI\EMICalculatorAPI.csproj", "{16BE4922-EC5A-4E76-A118-73E5BFB1FB82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EMICalculatorAPIClient", "..\EMICalculatorAPIClient\EMICalculatorAPIClient\EMICalculatorAPIClient.csproj", "{A7A5747E-8233-45BA-A1B8-0532434A5EEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataModelsLib", "DataModelsLib\DataModelsLib.csproj", "{3B35F309-5421-48DB-8991-6BC313B762EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmiCalculatorLib", "EmiCalculatorLib\EmiCalculatorLib.csproj", "{02AB435A-150C-4AD6-B15E-8A3E74BEAABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmiCalculatorApiProxyLib", "EmiCalculatorApiProxyLib\EmiCalculatorApiProxyLib.csproj", "{EFCB4814-2097-4E19-9ABA-601949462133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16BE4922-EC5A-4E76-A118-73E5BFB1FB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BE4922-EC5A-4E76-A118-73E5BFB1FB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BE4922-EC5A-4E76-A118-73E5BFB1FB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BE4922-EC5A-4E76-A118-73E5BFB1FB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A5747E-8233-45BA-A1B8-0532434A5EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A5747E-8233-45BA-A1B8-0532434A5EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A5747E-8233-45BA-A1B8-0532434A5EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A5747E-8233-45BA-A1B8-0532434A5EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B35F309-5421-48DB-8991-6BC313B762EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B35F309-5421-48DB-8991-6BC313B762EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B35F309-5421-48DB-8991-6BC313B762EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B35F309-5421-48DB-8991-6BC313B762EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02AB435A-150C-4AD6-B15E-8A3E74BEAABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02AB435A-150C-4AD6-B15E-8A3E74BEAABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02AB435A-150C-4AD6-B15E-8A3E74BEAABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02AB435A-150C-4AD6-B15E-8A3E74BEAABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCB4814-2097-4E19-9ABA-601949462133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCB4814-2097-4E19-9ABA-601949462133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCB4814-2097-4E19-9ABA-601949462133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCB4814-2097-4E19-9ABA-601949462133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9F39CF7-C940-44C4-B81C-9117D5D71803}
+	EndGlobalSection
+EndGlobal

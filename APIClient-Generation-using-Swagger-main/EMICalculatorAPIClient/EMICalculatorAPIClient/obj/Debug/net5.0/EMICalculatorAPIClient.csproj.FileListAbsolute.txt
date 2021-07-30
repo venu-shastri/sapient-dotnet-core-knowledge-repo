@@ -1,0 +1,38 @@
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\EMICalculatorAPIClient.exe
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\EMICalculatorAPIClient.deps.json
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\EMICalculatorAPIClient.runtimeconfig.json
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\EMICalculatorAPIClient.runtimeconfig.dev.json
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\EMICalculatorAPIClient.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\ref\EMICalculatorAPIClient.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\EMICalculatorAPIClient.pdb
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.csproj.AssemblyReference.cache
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.AssemblyInfoInputs.cache
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.AssemblyInfo.cs
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.csproj.CopyComplete
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\ref\EMICalculatorAPIClient.dll
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.pdb
+C:\Users\PIYUSH RAI\source\repos\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.genruntimeconfig.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\EMICalculatorAPIClient.exe
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\EMICalculatorAPIClient.deps.json
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\EMICalculatorAPIClient.runtimeconfig.json
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\EMICalculatorAPIClient.runtimeconfig.dev.json
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\EMICalculatorAPIClient.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\ref\EMICalculatorAPIClient.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\EMICalculatorAPIClient.pdb
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.csproj.AssemblyReference.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.AssemblyInfoInputs.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.AssemblyInfo.cs
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.csproj.CoreCompileInputs.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.csproj.CopyComplete
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\ref\EMICalculatorAPIClient.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.pdb
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\obj\Debug\net5.0\EMICalculatorAPIClient.genruntimeconfig.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\DataModelsLib.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPIClient\EMICalculatorAPIClient\bin\Debug\net5.0\DataModelsLib.pdb

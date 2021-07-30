@@ -1,0 +1,15 @@
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\bin\Debug\net5.0\EmiCalculatorLib.deps.json
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\bin\Debug\net5.0\EmiCalculatorLib.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\bin\Debug\net5.0\ref\EmiCalculatorLib.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\bin\Debug\net5.0\EmiCalculatorLib.pdb
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\bin\Debug\net5.0\DataModelsLib.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\bin\Debug\net5.0\DataModelsLib.pdb
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\obj\Debug\net5.0\EmiCalculatorLib.csproj.AssemblyReference.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\obj\Debug\net5.0\EmiCalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\obj\Debug\net5.0\EmiCalculatorLib.AssemblyInfoInputs.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\obj\Debug\net5.0\EmiCalculatorLib.AssemblyInfo.cs
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\obj\Debug\net5.0\EmiCalculatorLib.csproj.CoreCompileInputs.cache
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\obj\Debug\net5.0\EmiCalculatorLib.csproj.CopyComplete
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\obj\Debug\net5.0\EmiCalculatorLib.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\obj\Debug\net5.0\ref\EmiCalculatorLib.dll
+E:\APIClient-Generation-using-Swagger-main\EMICalculatorAPI\EmiCalculatorLib\obj\Debug\net5.0\EmiCalculatorLib.pdb
