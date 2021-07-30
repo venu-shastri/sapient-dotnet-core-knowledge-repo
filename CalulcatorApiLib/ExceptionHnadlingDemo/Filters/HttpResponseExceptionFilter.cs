@@ -9,6 +9,7 @@ namespace ExceptionHnadlingDemo.Filters
 {
     public class HttpResponseExceptionFilter : IActionFilter
     {
+        
         public void OnActionExecuted(ActionExecutedContext context)
         {
             if(context.Exception!=null)

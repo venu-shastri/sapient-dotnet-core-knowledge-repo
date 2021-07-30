@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewareDemo", "Middlewar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHnadlingDemo", "ExceptionHnadlingDemo\ExceptionHnadlingDemo.csproj", "{D381726F-CE94-4DF2-8945-891922C61C93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoConnectDemo", "MongoConnectDemo\MongoConnectDemo.csproj", "{663161E2-437C-4101-8A2A-0787CE7F9A4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoSqlConnectivityDemo", "NoSqlConnectivityDemo\NoSqlConnectivityDemo.csproj", "{385E0A4E-FC0C-4866-A97F-331CCF2A6EE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{D381726F-CE94-4DF2-8945-891922C61C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D381726F-CE94-4DF2-8945-891922C61C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D381726F-CE94-4DF2-8945-891922C61C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{663161E2-437C-4101-8A2A-0787CE7F9A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663161E2-437C-4101-8A2A-0787CE7F9A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663161E2-437C-4101-8A2A-0787CE7F9A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663161E2-437C-4101-8A2A-0787CE7F9A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385E0A4E-FC0C-4866-A97F-331CCF2A6EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385E0A4E-FC0C-4866-A97F-331CCF2A6EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385E0A4E-FC0C-4866-A97F-331CCF2A6EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385E0A4E-FC0C-4866-A97F-331CCF2A6EE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

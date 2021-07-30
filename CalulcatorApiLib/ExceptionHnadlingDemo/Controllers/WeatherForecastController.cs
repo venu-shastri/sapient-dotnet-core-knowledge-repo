@@ -36,13 +36,14 @@ namespace ExceptionHnadlingDemo.Controllers
             .ToArray();
         }
         [HttpGet("{city}")]
-        public string  Get(string city)
+        public IActionResult  Get(string city)
         {
+            
             if (city=="abcd")
             {
                 throw new ArgumentException($"Unable to locate given {city} ");
             }
-            return city.ToUpper();
+            return new ContentResult() { Content = city.ToUpper() };
         }
     }
 }
