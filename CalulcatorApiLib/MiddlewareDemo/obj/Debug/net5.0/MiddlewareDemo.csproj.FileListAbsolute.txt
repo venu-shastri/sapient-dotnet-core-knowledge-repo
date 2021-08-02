@@ -7,7 +7,6 @@ E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MiddlewareDemo\bin\Debug\
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MiddlewareDemo\bin\Debug\net5.0\MiddlewareDemo.dll
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MiddlewareDemo\bin\Debug\net5.0\ref\MiddlewareDemo.dll
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MiddlewareDemo\bin\Debug\net5.0\MiddlewareDemo.pdb
-E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MiddlewareDemo\obj\Debug\net5.0\MiddlewareDemo.csproj.AssemblyReference.cache
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MiddlewareDemo\obj\Debug\net5.0\MiddlewareDemo.GeneratedMSBuildEditorConfig.editorconfig
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MiddlewareDemo\obj\Debug\net5.0\MiddlewareDemo.AssemblyInfoInputs.cache
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MiddlewareDemo\obj\Debug\net5.0\MiddlewareDemo.AssemblyInfo.cs

@@ -1,0 +1,5 @@
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MockingUsingMoc\obj\Debug\net5.0\MockingUsingMoc.csproj.AssemblyReference.cache
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MockingUsingMoc\obj\Debug\net5.0\MockingUsingMoc.GeneratedMSBuildEditorConfig.editorconfig
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MockingUsingMoc\obj\Debug\net5.0\MockingUsingMoc.AssemblyInfoInputs.cache
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MockingUsingMoc\obj\Debug\net5.0\MockingUsingMoc.AssemblyInfo.cs
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MockingUsingMoc\obj\Debug\net5.0\MockingUsingMoc.csproj.CoreCompileInputs.cache

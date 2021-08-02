@@ -113,7 +113,6 @@ E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ApiUsingEF\bin\Debug\net5
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ApiUsingEF\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ApiUsingEF\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ApiUsingEF\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ApiUsingEF\obj\Debug\net5.0\ApiUsingEF.csproj.AssemblyReference.cache
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ApiUsingEF\obj\Debug\net5.0\ApiUsingEF.GeneratedMSBuildEditorConfig.editorconfig
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ApiUsingEF\obj\Debug\net5.0\ApiUsingEF.AssemblyInfoInputs.cache
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ApiUsingEF\obj\Debug\net5.0\ApiUsingEF.AssemblyInfo.cs

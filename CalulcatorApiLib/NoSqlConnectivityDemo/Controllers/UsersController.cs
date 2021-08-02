@@ -8,6 +8,12 @@ using System.Threading.Tasks;
 
 namespace NoSqlConnectivityDemo.Controllers
 {
+    /* Convert Synchronous API's to A-synchronous 
+       Decouple Controller From Mongodb / Sqllite
+       Add CRUD Opertaions 
+       
+
+     */
     [Route("api/[controller]")]
     [ApiController]
     public class UsersController : ControllerBase
