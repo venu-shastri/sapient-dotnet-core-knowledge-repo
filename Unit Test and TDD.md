@@ -290,10 +290,10 @@ public static class LoanProcessor
 - ### Simplified (Martin)
 
   A method m of a class C, can only call methods of:
-  • C
-  • An object passed as an argument to m.
-  • An object created by m.
-  • An object held in an instance variable of C
+  - C
+  - An object passed as an argument to m.
+  - An object created by m.
+  - An object held in an instance variable of C
 
 
 
