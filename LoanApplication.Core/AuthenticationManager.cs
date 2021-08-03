@@ -6,6 +6,7 @@ namespace LoanApplication.Core
 {
     public class AuthenticationManager
     {
+  
         private IDbContext dbContext;
 
         public AuthenticationManager(IDbContext dbContext)

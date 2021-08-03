@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -9,6 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 
 namespace ExceptionHnadlingDemo
 {
@@ -33,13 +35,31 @@ namespace ExceptionHnadlingDemo
         {
             if (env.IsDevelopment())
             {
-               /// app.UseDeveloperExceptionPage();
-               /// 
+                app.UseDeveloperExceptionPage();
+                /// 
             }
-           
-                app.UseExceptionHandler("/error");
-           
 
+            else
+            {
+                //app.UseExceptionHandler("/error");
+                app.UseExceptionHandler(options =>
+                {
+
+                    options.Run(async context =>
+                    {
+
+                        IExceptionHandlerFeature error = context.Features.Get<IExceptionHandlerFeature>();
+                        if (error != null)
+                        {
+                            var message = error.Error.Message;
+                            await context.Response.WriteAsync(message);
+                        }
+                    });
+
+
+                });
+
+            }
             
             app.UseRouting();
 

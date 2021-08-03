@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Diagnostics;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -15,6 +16,9 @@ namespace ExceptionHnadlingDemo.Controllers
         public IActionResult Error()
         {
             //Returns Object Result - RFC 7807
+            
+            IExceptionHandlerFeature errorFeature = this.ControllerContext.HttpContext.Features.Get<IExceptionHandlerFeature>();
+            
             return Problem();
         }
 

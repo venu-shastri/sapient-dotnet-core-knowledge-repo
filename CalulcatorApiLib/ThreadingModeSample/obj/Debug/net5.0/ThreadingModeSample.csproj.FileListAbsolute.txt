@@ -1,0 +1,15 @@
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\bin\Debug\net5.0\ThreadingModeSample.exe
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\bin\Debug\net5.0\ThreadingModeSample.deps.json
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\bin\Debug\net5.0\ThreadingModeSample.runtimeconfig.json
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\bin\Debug\net5.0\ThreadingModeSample.runtimeconfig.dev.json
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\bin\Debug\net5.0\ThreadingModeSample.dll
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\bin\Debug\net5.0\ref\ThreadingModeSample.dll
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\bin\Debug\net5.0\ThreadingModeSample.pdb
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\obj\Debug\net5.0\ThreadingModeSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\obj\Debug\net5.0\ThreadingModeSample.AssemblyInfoInputs.cache
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\obj\Debug\net5.0\ThreadingModeSample.AssemblyInfo.cs
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\obj\Debug\net5.0\ThreadingModeSample.csproj.CoreCompileInputs.cache
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\obj\Debug\net5.0\ThreadingModeSample.dll
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\obj\Debug\net5.0\ref\ThreadingModeSample.dll
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\obj\Debug\net5.0\ThreadingModeSample.pdb
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\obj\Debug\net5.0\ThreadingModeSample.genruntimeconfig.cache

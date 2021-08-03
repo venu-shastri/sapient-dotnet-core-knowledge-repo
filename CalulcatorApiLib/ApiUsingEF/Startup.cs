@@ -11,6 +11,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ApiUsingEF.Data;
+using Microsoft.Extensions.Options;
 
 namespace ApiUsingEF
 {
@@ -28,6 +29,7 @@ namespace ApiUsingEF
         {
 
             services.AddControllers();
+            
 
             services.AddDbContext<ApiUsingEFContext>(options =>
                     options.UseSqlite(Configuration.GetConnectionString("ApiUsingEFContext")));
