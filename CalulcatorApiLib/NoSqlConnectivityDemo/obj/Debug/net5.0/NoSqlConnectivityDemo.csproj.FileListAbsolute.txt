@@ -19,7 +19,6 @@ E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\NoSqlConnectivityDemo\bin
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\NoSqlConnectivityDemo\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\NoSqlConnectivityDemo\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\NoSqlConnectivityDemo\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
-E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\NoSqlConnectivityDemo\obj\Debug\net5.0\NoSqlConnectivityDemo.csproj.AssemblyReference.cache
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\NoSqlConnectivityDemo\obj\Debug\net5.0\NoSqlConnectivityDemo.GeneratedMSBuildEditorConfig.editorconfig
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\NoSqlConnectivityDemo\obj\Debug\net5.0\NoSqlConnectivityDemo.AssemblyInfoInputs.cache
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\NoSqlConnectivityDemo\obj\Debug\net5.0\NoSqlConnectivityDemo.AssemblyInfo.cs

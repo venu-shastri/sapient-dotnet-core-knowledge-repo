@@ -148,3 +148,4 @@ E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ApiUsingEF\bin\Debug\net5
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ApiUsingEF\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ApiUsingEF\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ApiUsingEF\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ApiUsingEF\obj\Debug\net5.0\ApiUsingEF.csproj.AssemblyReference.cache

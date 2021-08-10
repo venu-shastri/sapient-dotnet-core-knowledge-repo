@@ -33,4 +33,3 @@ E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MongoConnectDemo\bin\Debu
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MongoConnectDemo\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MongoConnectDemo\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MongoConnectDemo\obj\Debug\net5.0\MongoConnectDemo.csproj.CopyComplete
-E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MongoConnectDemo\obj\Debug\net5.0\MongoConnectDemo.csproj.AssemblyReference.cache

@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="bindingTest.js"></script>
+    <script src="closures.js"></script>
+    <script src="init.js"></script>
+    <script src="moduleA.js"></script>
+    <script src="moduleB.js"></script>
+    <script>
+
+        function onButtonClick() {
+            //Ajax
+            var httpRequest = new XMLHttpRequest();
+            
+            var data = { date: "2021-08-07T16:07:06.458801+05:30", temperatureC: 44, temperatureF: 111, summary: "Freezing" }
+
+            httpRequest.onreadystatechange = onAjaxRequestStateChanged;
+            httpRequest.open("POST", "http://localhost:12869/weatherforecast", true);
+            httpRequest.setRequestHeader("content-type", "application/json");
+            
+            httpRequest.send(JSON.stringify(data));
+            
+            function onAjaxRequestStateChanged() {
+
+                console.log("Request State Changed " + httpRequest.readyState);
+                if (httpRequest.readyState == 4 && httpRequest.status == 200) {
+
+                    document.getElementById("resultArea").innerText = httpRequest.responseText;
+
+                }
+            }
+        }
+
+        console.log(sapient.moduleA.message);
+        console.log(sapient.moduleB.message);
+
+
+       
+    </script>
+</head>
+<body>
+    <button onclick="onButtonClick()">GetServerTime</button>
+    <output id="resultArea"></output>
+</body>
+</html>

@@ -7,7 +7,6 @@ E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\SOLIDDemo\bin\Debug\net5.
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\SOLIDDemo\bin\Debug\net5.0\SOLIDDemo.dll
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\SOLIDDemo\bin\Debug\net5.0\ref\SOLIDDemo.dll
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\SOLIDDemo\bin\Debug\net5.0\SOLIDDemo.pdb
-E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\SOLIDDemo\obj\Debug\net5.0\SOLIDDemo.csproj.AssemblyReference.cache
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\SOLIDDemo\obj\Debug\net5.0\SOLIDDemo.GeneratedMSBuildEditorConfig.editorconfig
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\SOLIDDemo\obj\Debug\net5.0\SOLIDDemo.AssemblyInfoInputs.cache
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\SOLIDDemo\obj\Debug\net5.0\SOLIDDemo.AssemblyInfo.cs

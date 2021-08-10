@@ -13,3 +13,4 @@ E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\obj\D
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\obj\Debug\net5.0\ref\ThreadingModeSample.dll
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\obj\Debug\net5.0\ThreadingModeSample.pdb
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\obj\Debug\net5.0\ThreadingModeSample.genruntimeconfig.cache
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\ThreadingModeSample\obj\Debug\net5.0\ThreadingModeSample.csproj.AssemblyReference.cache

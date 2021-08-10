@@ -20,4 +20,3 @@ E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\DiDemo\obj\Debug\net5.0\D
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\DiDemo\obj\Debug\net5.0\ref\DiDemo.dll
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\DiDemo\obj\Debug\net5.0\DiDemo.pdb
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\DiDemo\obj\Debug\net5.0\DiDemo.genruntimeconfig.cache
-E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\DiDemo\obj\Debug\net5.0\DiDemo.csproj.AssemblyReference.cache

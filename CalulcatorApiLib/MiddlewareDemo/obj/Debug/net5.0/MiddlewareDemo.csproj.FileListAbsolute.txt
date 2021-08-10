@@ -20,3 +20,4 @@ E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MiddlewareDemo\obj\Debug\
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MiddlewareDemo\obj\Debug\net5.0\ref\MiddlewareDemo.dll
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MiddlewareDemo\obj\Debug\net5.0\MiddlewareDemo.pdb
 E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MiddlewareDemo\obj\Debug\net5.0\MiddlewareDemo.genruntimeconfig.cache
+E:\sapient-dotnet-core-knowledge-repo\CalulcatorApiLib\MiddlewareDemo\obj\Debug\net5.0\MiddlewareDemo.csproj.AssemblyReference.cache
