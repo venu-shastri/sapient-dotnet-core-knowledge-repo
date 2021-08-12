@@ -1,0 +1,39 @@
+<html>
+    <head>
+     <script src='https://cdnjs.cloudflare.com/ajax/libs/redux/4.0.1/redux.js'></script>
+     <script>
+     
+     function reducer(state,action){
+        switch(action.type){
+            case "ADD_NEW_DEVICE": 
+                   const newDeviceList=state.deviceList.slice();
+                   newDeviceList.push(action.payload);
+                   return {deviceList:newDeviceList};
+            break;
+            default:return state;
+        }
+     }
+   var store=Redux.createStore(reducer,{deviceList:[]});
+    
+   function viewUpdateCallback(){
+        var currentState=store.getState();
+        //console.log(currentState);
+    }
+  store.subscribe(viewUpdateCallback);
+
+  function onAddNewDevice(){
+         var actionObj={type:'ADD_NEW_DEVICE',payload:{id:1,name:"XYZ"}};
+        store.dispatch(actionObj);
+    }
+
+
+</script>
+</head>
+<body>
+        <div>
+                <button onclick="onAddNewDevice()">AddNewDevice</button>
+                
+        </div>
+        
+</body>
+</html>

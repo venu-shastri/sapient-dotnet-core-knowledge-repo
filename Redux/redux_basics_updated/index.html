@@ -1,0 +1,52 @@
+<html>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/immutable/3.8.2/immutable.js"></script>
+<script src='redux.js'></script>
+
+<script>
+  function reducer(action,state){
+        switch(action.type){
+            case "ADD_NEW_DEVICE": 
+                    // var  newDevice=action.payload;
+                    // var newDeviceList=[];
+                    // for(var i=0;i<state.deviceList.length;i++){
+
+                    //     newDeviceList.push(state.deviceList[i]);
+                    // }
+                    // newDeviceList.push(newDevice);
+                    // var newState={deviceList:newDeviceList};
+                    // return newState;
+                   
+                   // const newDeviceList= state.deviceList.slice();
+                   const newDeviceList=[...state.deviceList];
+                   newDeviceList.push(action.payload);
+                   return {deviceList:newDeviceList};
+            break;
+            default:return state;
+        }
+     }
+     function viewUpdateCallback(){
+
+        var currentState=store.getState();
+    console.log(currentState);
+    } 
+
+    var store=redux.createStore(reducer,{deviceList:[]});
+
+    store.subscribe(viewUpdateCallback);
+    
+    function onAddNewDevice(){
+         var actionObj={type:'ADD_NEW_DEVICE',payload:{id:1,name:"XYZ"}};
+        store.dispatch(actionObj);
+     }
+</script>
+</head>
+<body>
+
+    <div>
+        <button onclick="onAddNewDevice()">AddNewDevice</button>
+        <button id="dec_btn">Decrement</button>
+    </div>
+
+</body>
+</html>
