@@ -5,14 +5,14 @@ import ReactDOM from 'react-dom';
 import { createStore } from 'redux';
 import { Provider } from 'react-redux';
 import tasks from './reducers';
-import App from './App';
+import {AppWrapper} from './App';
 import './index.css';
 
 const store = createStore(tasks);
 
 ReactDOM.render(
   <Provider store={store}>
-    <App />
+  <AppWrapper></AppWrapper>
   </Provider>,
   document.getElementById('root')
 );

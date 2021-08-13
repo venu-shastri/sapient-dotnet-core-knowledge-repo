@@ -1,44 +1,6 @@
 <html>
     <head>
-        <script>
-
-            const listeners = [];
-            let state = { counter: 3};
-
-            function updateView() {
-                document.querySelector('#counter').innerText = state.counter;
-            }
-
-            subscribe(updateView);
-
-            document.querySelector('#inc').onclick = function(){ dispatch('INC');}
-            document.querySelector('#dec').onclick = function(){ dispatch('DEC');}
-            function dispatch(action) {
-
-                    const newState = reducer(state, action);
-                    if (newState !== state) {
-                    state = newState;
-	                listeners.forEach(listener => listener());
-                    }
-
-             };
-
-            function reducer(state, action) {
-                 switch (action) {
-                    case 'INC':
-                            return { ...state, counter: state.counter + 1 };
-                    case 'DEC':
-                            return { ...state, counter: state.counter - 1 };
-                    default:
-                    return state;
-                 }
-            }
-
-            function subscribe(callback) {
-                listeners.push(callback);
-            }
-
-        </script>
+   
     </head>
     <body>
         <div>
@@ -50,5 +12,50 @@
              <button id='dec'>Decrement</button>
              </body>
             </div>
+            <script>
+
+                const listeners = [];
+                let state = { counter: 3};
+    
+                //component
+                function updateView() {
+                    document.querySelector('#counter').innerText = state.counter;
+                }
+    
+                subscribe(updateView);
+    
+                document.querySelector('#inc').onclick= function(){ dispatch('INC');}
+                document.querySelector('#dec').onclick = function(){ dispatch('DEC');}
+    
+                //Store/dispather
+                function dispatch(action) {
+    
+                        //Delegate Action -> reducer
+                        const newState = reducer(state, action);
+                        if (newState !== state) {
+                        state = newState;
+                    console.log(state);
+                        listeners.forEach(listener => listener());
+                        }
+    
+                 };
+    
+                 //Pure Function
+                function reducer(state, action) {
+                     switch (action) {
+                        case 'INC':
+                                return { ...state, counter: state.counter + 1 };
+                        case 'DEC':
+                                return { ...state, counter: state.counter - 1 };
+                        default:
+                        return state;
+                     }
+                }
+    
+                function subscribe(callback) {
+                    listeners.push(callback);
+                }
+    
+            </script>
     </body>
 </html>

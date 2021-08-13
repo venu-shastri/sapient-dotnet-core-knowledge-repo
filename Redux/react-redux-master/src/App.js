@@ -24,11 +24,11 @@ class App extends Component {
     );
   }
 }
-
-function mapStateToProps(state) {
+//selector method
+function mapStateToProps(stateFromStore) {
   return {
-    tasks: state.tasks,
+    tasks: stateFromStore.tasks,
   };
 }
 
-export default connect(mapStateToProps)(App);
+export const AppWrapper=connect(mapStateToProps)(App);
