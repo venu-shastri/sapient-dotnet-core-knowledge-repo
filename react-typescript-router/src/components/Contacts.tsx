@@ -1,5 +1,6 @@
 import { FC, useState } from 'react'
 import { Link } from 'react-router-dom'
+
 import './Contacts.css'
 type Contact = {
     id: number
@@ -34,7 +35,7 @@ const Contacts: FC<Props> = (props) => {
 
 const [contacts, setContacts] = useState<Contact[]>(data)
 const { match: { params: { contactId } } } = props
-console.log(contactId);
+console.log(props.match);
 
 let selectedContact: any = false
 if (contactId > 0) {

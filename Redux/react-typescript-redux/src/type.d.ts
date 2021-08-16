@@ -6,7 +6,9 @@ interface ICard{
 
 }
 
+//state
 type CardsState={cards:ICard[]};
 
+//Action Type
 type CardAction={type:string,data:ICard}
 
