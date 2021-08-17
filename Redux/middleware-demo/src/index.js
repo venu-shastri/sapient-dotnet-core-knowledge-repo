@@ -22,7 +22,7 @@ const rootReducer = (state = {}, action) => {
 
 const store = createStore(
   rootReducer,
-  composeWithDevTools(applyMiddleware(thunk, apiMiddleware, logger, analytics))
+  composeWithDevTools(applyMiddleware(thunk, apiMiddleware, logger))
 );
 
 ReactDOM.render(

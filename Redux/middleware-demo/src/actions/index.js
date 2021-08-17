@@ -10,7 +10,7 @@ export function fetchTasks() {
   return {
     [CALL_API]: {
       types: [FETCH_TASKS_STARTED, FETCH_TASKS_SUCCEEDED, FETCH_TASKS_FAILURE],
-      endpoint: '/tasks',
+      endpoint: '/db.json',
     },
   };
 }

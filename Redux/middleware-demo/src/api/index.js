@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = 'http://localhost:3000';
 
 const client = axios.create({
   baseURL: API_BASE_URL,
@@ -10,7 +10,7 @@ const client = axios.create({
 });
 
 export function fetchTasks() {
-  return client.get('/tasks');
+  return client.get('/db.json');
 }
 
 export function createTask(params) {
