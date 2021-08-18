@@ -1,8 +1,9 @@
 import Message from './Message';
 
-describe('Message', () => {
+describe('Message Componet TestSuite', () => {
     it('should always render the message', () => {
-        const notImportantMessage = Message({ content: "I see everything twice", isImportant: false });
+        const notImportantMessage = Message(
+            { content: "I see everything twice", isImportant: false });
         expect(notImportantMessage.props.children.props.children).toBe('I see everything twice');
         const importantMessage = Message({ content: "I see everything twice", isImportant: true });
         expect(importantMessage.props.children.props.children).toBe('I see everything twice');

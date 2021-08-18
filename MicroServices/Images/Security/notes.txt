@@ -1,0 +1,18 @@
+Microservice Security Concerns
+1.Central User Store Bottleneck
+2.Single Sign On
+3.Statelessness
+4.user Credentials
+5.Fine -grained Authorization
+6.Introperability with Non Browser Clients
+
+
+What is OAuth2 Not?
+OAuth2 is not Authentication
+.The user must be authenticated to obtain a token
+.How the user is authenticated is outside of the spec
+.How the token is validated is outside the spec
+.what the token containe is outside the spec
+
+What is OpenID Connect not?
+

@@ -12,7 +12,8 @@ describe('CardList', ()=>{
             describe('all selected', ()=> {
                 it('should select all the Cards', ()=>{
                     const all = {ICICI: true, HDFC: true, SBI: true};
-                    const tr = TestRenderer.create(<CardList cardsActive={all} cards={Cards}  onCardSelection={()=>{}} />);
+                    const tr = TestRenderer.create(
+                    <CardList cardsActive={all} cards={Cards}  onCardSelection={()=>{}} />);
                     const inputs = tr.root.findAllByProps({"data-testid": 'card-selected'});
                     inputs.forEach((input) => {
                         expect(input.props.checked).toBe(true);
