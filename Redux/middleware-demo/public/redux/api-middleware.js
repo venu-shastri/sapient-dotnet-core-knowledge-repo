@@ -1,7 +1,7 @@
 const canceled = {};
 
 //destructuring store 
-const apiMiddleware = ({ dispatch }) => (next) => (action) => {
+const apiMiddleware = ({dispatch}) => (next) => (action) => {
 
   const handleResponse = (response) => {
     if (action.cancelable && canceled[action.cancelable]) {
