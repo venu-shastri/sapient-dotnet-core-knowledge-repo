@@ -12,7 +12,7 @@ This is a very simple branching strategy with the following features.
 **production**)
 5. Create a **hotfix branch** from the master to **fix critical production bugs**. Merge the changes back to master, and use **git cherry-pick** command to bring back the changes into the release branch.
 
-![image-20210820214328008](E:\Azure-Devops\Trunk Based Branching)
+![image-20210820214328008](https://github.com/venu-shastri/sapient-dotnet-core-knowledge-repo/blob/main/Azure-Devops/Trunk%20Based%20Branching.png)
 
       #### Branch Naming Convention
 
