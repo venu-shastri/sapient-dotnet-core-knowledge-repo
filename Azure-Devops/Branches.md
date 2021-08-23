@@ -43,7 +43,7 @@ This is a very simple branching strategy with the following features.
 - Once Developers satisfied with the **release branch**, you can **merge it to the master branch for the next release**
 - **Hotfixes** to the **current version** can be done on a **hotfix branch** from master and **merged back to both master and develop.**
 
-![image-20210820220241415](E:\Azure-Devops\Git Based Flow)
+![image-20210820220241415](https://github.com/venu-shastri/sapient-dotnet-core-knowledge-repo/blob/main/Azure-Devops/Git%20Based%20Flow.png)
 
 As explained in the previous section, you can use **pull requests to merge changes to develop, release and master branches.**
 
