@@ -16,7 +16,7 @@ export default function LivePreviewExample() {
     <Fragment>
       <Card className="card-box mb-4">
         <div className="card-header pr-2">
-          <div className="card-header--title">Employees status</div>
+          <div className="card-header--title">Configure Api</div>
           <div className="card-header--actions">
             <Tooltip arrow title="Refresh">
               <IconButton size="small" color="primary" className="mr-3">
@@ -27,7 +27,9 @@ export default function LivePreviewExample() {
         </div>
         <CardContent className="p-3">
           <div className="table-responsive">
-            <table className="table table-borderless table-hover text-nowrap mb-0">
+
+            <h3>Card Content</h3>
+            {/* <table className="table table-borderless table-hover text-nowrap mb-0">
               <thead>
                 <tr>
                   <th>#</th>
@@ -171,7 +173,7 @@ export default function LivePreviewExample() {
                   </td>
                 </tr>
               </tbody>
-            </table>
+            </table> */}
           </div>
         </CardContent>
         <div className="card-footer d-flex justify-content-between">

@@ -72,9 +72,9 @@ export default function HeaderUserbox() {
               </span>
             </div>
             <Divider className="w-100 mt-2" />
-            {/* <ListItem button>My Account</ListItem>
+            <ListItem button>My Account</ListItem>
             <ListItem button>Profile settings</ListItem>
-            <ListItem button>Active tasks</ListItem> */}
+            <ListItem button>Active tasks</ListItem>
             <Divider className="w-100" />
             <ListItem className="d-block rounded-bottom px-3 pt-3 pb-0 text-center">
               <Tooltip arrow title="Twitter">

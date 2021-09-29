@@ -43,7 +43,7 @@ const Header = props => {
         {!props.isCollapsedLayout && <HeaderLogo />}
         <Box className="app-header-toolbar">
           <Hidden mdDown>
-            <Box className="d-flex align-items-center"> </Box>
+            <Box className="d-flex align-items-center">Test AbcD </Box>
           </Hidden>
           <Box className="d-flex align-items-center">
             <HeaderUserbox />

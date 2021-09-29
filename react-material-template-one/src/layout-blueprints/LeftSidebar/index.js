@@ -4,7 +4,7 @@ import clsx from 'clsx';
 
 import { connect } from 'react-redux';
 
-import { Header, Sidebar } from '../../layout-components';
+import { Header, Sidebar, Footer } from '../../layout-components';
 
 const LeftSidebar = props => {
   const {
@@ -33,6 +33,7 @@ const LeftSidebar = props => {
             <div className="app-content--inner">
               <div className="app-content--inner__wrapper">{children}</div>
             </div>
+            <Footer/>
           </div>
         </div>
       </div>

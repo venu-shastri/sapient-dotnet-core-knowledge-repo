@@ -44,7 +44,7 @@ export default [
     content: JSON.parse(
       `[
   {
-    "label": "Dashboards",
+    "label": "Admin View",
     "icon": "DashboardTwoToneIcon",
     "content": [
       {

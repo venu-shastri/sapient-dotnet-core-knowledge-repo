@@ -16,7 +16,7 @@ const Footer = props => {
           'app-footer--fixed': footerFixed
         })}>
         <div className="app-footer--inner">
-          <div className="app-footer--first">
+          {/* <div className="app-footer--first">
             <List dense className="d-flex align-items-center">
               <ListItem
                 className="rounded-sm text-nowrap"
@@ -37,7 +37,7 @@ const Footer = props => {
                 <ListItemText primary="View PRO Version" />
               </ListItem>
             </List>
-          </div>
+          </div> */}
           <div className="app-footer--second">
             <span>Carolina React Admin Dashboard with Material-UI Free</span> ©
             2020 - crafted with <span className="text-danger px-1">❤</span> by{' '}
